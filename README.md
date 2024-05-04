@@ -1,4 +1,4 @@
-"# my-coding-temple-ship-log" 
+# my-coding-temple-ship-log
 
 Author: Coding Temple
 
